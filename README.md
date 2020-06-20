@@ -42,7 +42,6 @@ Discord is a free, proprietary IP voice app designed for gaming communities a wo
 ## Instalation
 
 1. Have [Node.js](https://nodejs.org/en/) and [Yarn](https://yarnpkg.com/) installed.
-1. Clone the project by running this command: `https://github.com/cazuzabarberino/fake-trello.git`
+1. Clone the project by running this command: `https://github.com/milenetaborda/clone-discord.git`
 1. Go to the project's folder and run `yarn install` to install dependencies.
 1. Run `yarn start`
-
