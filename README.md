@@ -2,7 +2,7 @@
 <h1 align="center" >UI Clone - Discord</h1>
 
 <blockquote align="center">
-  Discord UI Clone (partial) for study purposes.
+  Discord UI Clone for study purposes.
 </blockquote>
 
 <p align="center">
