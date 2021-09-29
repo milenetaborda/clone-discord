@@ -3,7 +3,6 @@ import Layout from "./components/Layout";
 
 import GlobalStyles from "./styles/GlobalStyles";
 
-//test
 function App() {
   return (
     <>
